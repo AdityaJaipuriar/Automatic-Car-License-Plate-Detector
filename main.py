@@ -125,3 +125,4 @@ if uploaded_file is not None:
                 st.image(result_path)
     except Exception as e:
         st.error(f"Error uploading or processing file: {e}")
+
