@@ -1,6 +1,6 @@
 pandas
 numpy
-opencv-python-headless==4.13.0.92
-ultralytics==8.0.145
+opencv-python-headless
+ultralytics
 streamlit>=1.35.0
 Pillow
