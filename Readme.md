@@ -1,6 +1,6 @@
 # Automatic Car License Plate Detector 
 
-[![Streamlit App](https://automatic-car-license-plate-detector-tpl67ngp8igvhgjjvzysyz.streamlit.app/)](YOUR_DEPLOYED_APP_LINK_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg)](https://automatic-car-license-plate-detector-tpl67ngp8igvhgjjvzysyz.streamlit.app/)
 
 ##  Problem Statement
 Manual vehicle monitoring in high-traffic areas (parking lots, toll booths, restricted zones) is slow, prone to human error, and expensive to scale. There is a need for an automated, low-latency system that can accurately detect vehicle identifiers from diverse visual media.
