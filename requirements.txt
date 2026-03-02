@@ -1,8 +1,6 @@
 pandas
 numpy
-matplotlib
-Scikit-learn
 opencv-python-headless
 ultralytics
-easyocr
 streamlit
+Pillow
